@@ -4,8 +4,6 @@ An Omarchy theme.
 
 ![The Last Supper](preview.png)
 
-![The Last Supper 16:9](preview.webp)
-
 ## Install
 
 ```
